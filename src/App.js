@@ -13,7 +13,7 @@ function App() {
         <nav>
           <ul>
             <li>
-              <NavLink to="/">Caja 1</NavLink>
+              <NavLink to="/">Ensayando</NavLink>
             </li>
             <li>
               <NavLink to="/about">Caja 2</NavLink>
@@ -32,3 +32,5 @@ function App() {
 }
 
 export default App;
+
+
